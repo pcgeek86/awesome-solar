@@ -7,3 +7,8 @@
 * [Review of Kriëger 12v 1500-watt modified sine wave inverter](https://trevorsullivan.net/2020/10/04/review-of-the-krieger-1500w-dc-to-ac-inverter/)
 
 ### Videos
+
+### Directories
+
+* [SolarXlist](https://solarxlist.org/) - Global Solar & Energy Storage Company Directory
+
